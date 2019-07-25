@@ -1,2 +1,0 @@
-# LianaTask
-Exploring GitHub
